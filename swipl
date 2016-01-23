@@ -1,0 +1,2 @@
+#!/bin/bash
+exec "/Volumes/Data/nfs/zfs-student-6/users/mchindri/homebrew/Cellar/swi-prolog/7.2.3/libexec/bin/swipl" "$@"
